@@ -1,0 +1,58 @@
+#title{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+    margin: 0px;
+    border-bottom: solid 3px black;
+    padding-bottom: 10px;
+    color: blue;
+    
+}
+
+a{
+    color: purple;
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: 550;
+    
+}
+
+ol{
+    margin: 10px;
+}
+
+.gird{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    margin-top: 0px;
+    border-bottom: solid;
+}
+
+h2{
+    
+    margin: 5px;
+    margin-top: 0px;
+    font-size: 2.2em;
+}
+
+.spanage{
+    margin-left: 10px;
+    
+}
+
+.gird div{
+    border-left: solid 3px;
+    padding-left: 4px;
+}
+
+img{
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.copy{
+    text-align: center;
+    font-size: 10px;
+}
